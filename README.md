@@ -25,8 +25,7 @@ The script prompts the user to enter a topic, then uses Gemini AI to generate a 
 3. When prompted, enter a topic (e.g., `Photosynthesis`, `World War II`, `Basic Algebra`).
 4. The script will generate a prompt and send it to Gemini via the CLI.
 5. Gemini will respond with a complete HTML file.
-6. Copy the terminal output and save it manually as `flashcards.html`.
-7. Open the HTML file in a browser to interact with your flashcards.
+6. Open the HTML file in a browser to interact with your flashcards.
 
 ---
 
